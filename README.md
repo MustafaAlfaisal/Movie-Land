@@ -1,4 +1,4 @@
-# React Movie search Website 
+# React Movie search Application 
 
-*** Movie Search using React And omdb API ***
+** Movie Search using React And omdb API **
 
