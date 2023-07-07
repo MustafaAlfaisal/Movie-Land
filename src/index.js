@@ -1,4 +1,3 @@
-import react from 'react';  // import react
 import reactDOM from 'react-dom';  // import react-dom
 import App from './App';  // import App component
 
